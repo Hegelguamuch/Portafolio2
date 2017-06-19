@@ -1,0 +1,121 @@
+body {
+	background:url(fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.container {
+	width: 100% !important;
+	margin: 0px;
+}
+.uno {
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+	background: #22213D;
+	color: white;
+	box-shadow: red 0px 10px 10px;
+}
+
+.logo {
+	width: 90px;
+	height: 90px;
+}
+
+.letra {
+	padding:20px;
+}
+.letra a {
+	text-decoration: none;
+	color:white;
+}
+.letra a:hover {
+	border-radius: 10px;
+	background:red;
+	text-decoration: none;
+	color:white;
+	padding: 5px;
+	box-shadow: silver 0px 0px 10px,
+				red 0px 0px 20px;
+}
+
+.uno2 {
+	margin-top:10px;
+	text-align: center;
+	background: url(fondo2.jpg);
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	text-shadow:red 5px 5px 20px;
+	color: white;
+	
+}
+.uno1 {
+	padding-bottom: 40px;
+	padding-top: 40px;
+	background-color: rgb(13,10,29);
+	opacity: 0.7;
+}
+
+.uno3 {
+	background-color: black;
+	text-align: center;
+	opacity:0.8;
+	padding: 30px;
+}
+.uno3 h4 {
+	color: black;
+	border-radius: 20px;
+	background: white;
+	width:150px;
+	padding: 10px;
+	margin: 0 auto;
+}
+.dos {
+	color: white;
+}
+.dos1 {
+	background-color: red;
+	text-align: center;
+	opacity:0.5;
+	padding: 20px;
+}
+.dos2 {
+	background-color: blue;
+	text-align: center;
+	opacity:0.5;
+	padding: 20px;
+}
+.dos3 {
+	background-color:green;
+	text-align: center;
+	opacity:0.5;
+	padding: 40px;
+}
+.tres {
+	background:black;
+	opacity: 0.5;
+	color:white;
+	text-align: center;
+	text-shadow: red 0px 0px 10px;
+}
+.ultimo {
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+	background:rgb(13,10,29);
+	padding: 15px;
+}
+.ultimo a {
+	text-decoration: none;
+	color:white;
+}
+.ultimo a:hover {
+	border-radius: 10px;
+	background:red;
+	text-decoration: none;
+	color:white;
+	padding: 5px;
+	box-shadow: silver 0px 0px 10px,
+				red 0px 0px 20px;
+}
+
